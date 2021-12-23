@@ -1,0 +1,7 @@
+transformers
+datasets 
+sentencepiece 
+rouge_score 
+nltk
+pandas 
+matplotlib 
